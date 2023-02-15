@@ -9,3 +9,6 @@ Files to create a custom PCB to upgrade a 3Dfx Voodoo Accelerator from 4 to 8 MB
 
 ## 8 MB Voodoo Accelerator: Guillemot MAXI Gamer 3D
 ![Card](https://user-images.githubusercontent.com/88672050/218956427-38299d72-63ed-46bf-8635-f235a12edf9e.png)
+
+## High Resolution Images
+![2D Schematics](https://user-images.githubusercontent.com/88672050/219112574-503aedce-17e6-46b3-90ee-e3c51c47a3ed.png)
