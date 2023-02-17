@@ -2,10 +2,12 @@
 Files to create a custom PCB to upgrade a 3Dfx Voodoo Accelerator from 4 to 8 MB video memory.
 
 ## Front:
-![0223591520148](https://user-images.githubusercontent.com/88672050/218956296-6d1960e5-5171-4fcd-964c-c48cab84ba3b.png)
+![Render UP](https://user-images.githubusercontent.com/88672050/219572614-2bb12c24-cf35-421d-90f8-3883ab83775e.png)
+![Drawing UP](https://user-images.githubusercontent.com/88672050/219572649-e6467579-c146-4bc3-85c2-5c41da5bf577.png)
 
 ## Back:
-![0223593182644](https://user-images.githubusercontent.com/88672050/218956313-d8f80521-9c98-4357-b9a5-f83b3370b35e.png)
+![Render DOWN](https://user-images.githubusercontent.com/88672050/219572664-c1ac1d49-409c-46e3-b853-99f35abe20f2.png)
+![Drawing DOWN](https://user-images.githubusercontent.com/88672050/219572676-2cb1769f-3be0-4fbf-997c-e9db196d08fb.png)
 
 ## 8 MB Voodoo Accelerator: Guillemot MAXI Gamer 3D
 ![Card](https://user-images.githubusercontent.com/88672050/218956427-38299d72-63ed-46bf-8635-f235a12edf9e.png)
