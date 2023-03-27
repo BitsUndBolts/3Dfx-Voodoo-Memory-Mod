@@ -1,4 +1,4 @@
-# 3Dfx Voodoo: Memory Mod 4 MB to 8 MB
+# 3dfx Voodoo: Memory Mod 4 MB to 8 MB
 Files to create a custom PCB to upgrade a 3Dfx Voodoo Accelerator from 4 to 8 MB video memory.
 
 ## Front:
@@ -16,6 +16,16 @@ Files to create a custom PCB to upgrade a 3Dfx Voodoo Accelerator from 4 to 8 MB
 
 **Revision 1.1:**
 ![Down](https://user-images.githubusercontent.com/88672050/227789889-ac945aa3-430a-487b-98b4-be7475978146.png)
+
+## Get your own PCBs!
+![pcbway](https://user-images.githubusercontent.com/88672050/227833707-1594b2ee-1548-48ae-9ae4-4e0d38030a48.png)
+You can order your PCBs from [PCBWay.com](https://www.pcbway.com/) where everything is set up for you:<br />
+
+**Revision 1.0:**<br />
+https://www.pcbway.com/project/shareproject/W551147ASN6_Gerber_Maxi_Gamer_3D_Rev_1_0_2023_01_31_b757b3b7.html<br />
+
+**Revision 1.1:**<br />
+https://www.pcbway.com/project/shareproject/Guillemot_MAXI_Gamer_3D_3Dfx_Voodoo_Memory_Expansion_Board_REV_1_1_736bec60.html
 
 ## 8 MB Voodoo Accelerator: Guillemot MAXI Gamer 3D (Revision 1.0 & Revision 1.1)
 ![Voodoo with Mod 1 1](https://user-images.githubusercontent.com/88672050/227789731-1c37e050-b388-48b0-840e-292f4508ba54.png)
